@@ -1,0 +1,4 @@
+interface:
+  display_name: "Inspection Report Product Page Suite"
+  short_description: "Turn inspection reports into complete ecommerce page assets"
+  default_prompt: "Use this inspection report to create a logo-free product image, a square white-background hero, SEO-ready English copy, and nine coordinated square product-detail images."
